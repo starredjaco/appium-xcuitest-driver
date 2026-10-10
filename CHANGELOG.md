@@ -1,3 +1,9 @@
+## [12.17.1](https://github.com/appium/appium-xcuitest-driver/compare/v12.17.0...v12.17.1) (2026-10-10)
+
+### Bug Fixes
+
+* preserve recording aspect ratio and input frame rate ([#3010](https://github.com/appium/appium-xcuitest-driver/issues/3010)) ([caabeb3](https://github.com/appium/appium-xcuitest-driver/commit/caabeb39658bc9e7e13c6378cf76167e30b8e473))
+
 ## [12.17.0](https://github.com/appium/appium-xcuitest-driver/compare/v12.16.1...v12.17.0) (2026-10-10)
 
 ### Features
